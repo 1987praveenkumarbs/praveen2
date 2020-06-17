@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bjcvjvj
+=======
+chvjvvjvjjjvjjjj
+>>>>>>> 933f5c035057c5b39ea9c98a62a789656bdd72aa
