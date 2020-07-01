@@ -14,7 +14,7 @@ pipeline {
           when {
               allOf {
                   environment name:'a', value: '10'
-                  environment name:'b', value: '23'
+                  environment name:'b', value: '22'
               }
           }
          steps {
