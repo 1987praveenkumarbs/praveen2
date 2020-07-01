@@ -4,11 +4,7 @@ pipeline {
        a="10"
        b="22"
    }
-   triggers{
-       pollscm{
-           (*/1 * * * *)
-       }
-   }
+   
 
    stages {
       stage('Hello') {
